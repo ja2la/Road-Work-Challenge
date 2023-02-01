@@ -59,3 +59,9 @@ $ cd catkin_make/src/Vocal_Feedback/scripts
 $ chmod +x Vocal_Instructions.py
 $ rosrun Vocal_Feedback Vocal_Instructions.py
 ```
+
+## Group Members
+* Juliette Faure
+* Esra Gudum
+* Jade La
+* Lauraine Tiogang Nanko
