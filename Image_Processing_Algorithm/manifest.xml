@@ -1,0 +1,15 @@
+<package>
+  <description brief="Image_Processing_Algorithm">
+
+     Image_Processing_Algorithm
+
+  </description>
+  <author>J. LA</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
